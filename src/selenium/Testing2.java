@@ -12,4 +12,9 @@ public class Testing2 {
   public void test4() {
 	  System.out.println("Test4");
   }
+  
+ //added test 5 without tag
+  public void test5() {
+	 
+  }
 }
